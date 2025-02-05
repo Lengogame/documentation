@@ -1,16 +1,16 @@
-Free Bootstrap 5 Documentation Template for Software Projects
+Free Bootstrap 5 theme for project documentation
 
 Theme name:
 =======================================================================
-CoderDocs
+PrettyDocs
 
 Theme version:
 =======================================================================
-Bootstrap 5 v3.1
+BS5 v2.1
 
 Release Date:
 =======================================================================
-2024-09-12
+2024-09-18
 
 Author: 
 =======================================================================
@@ -26,4 +26,4 @@ License:
 =======================================================================
 This template is 100% FREE as long as you keep the footer attribution link. You do not have the rights to resell, sublicense or redistribute (even for free) the template on its own or as a separate attachment from any of your work.
 
-If you’d like to use this template without the footer attribution link, you can buy the commercial license - https://themes.3rdwavemedia.com/bootstrap-templates/product/coderdocs-free-bootstrap-5-documentation-template-for-software-projects/
+If you’d like to use this template without the footer attribution link, you can buy the commercial license - https://themes.3rdwavemedia.com/bootstrap-templates/startup/prettydocs-free-bootstrap-theme-for-developers-and-startups/
